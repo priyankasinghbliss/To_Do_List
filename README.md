@@ -18,10 +18,10 @@ A simple and efficient **To-Do List Application** designed to help users manage 
 
 ## 📌 Future Enhancements
 
+🔹 **Persistent Storage** – Saves tasks (using Local Storage / Database)
 🔹 **User Authentication** – Login & register functionality.  
 🔹 **Due Dates & Reminders** – Set deadlines for tasks.  
 🔹 **Dark Mode** – Theme switcher for better accessibility.
-🔹 **Persistent Storage** – Saves tasks (using Local Storage / Database)
 
 ## 🤝 Contributing
 
