@@ -1,5 +1,7 @@
 # 📝 To-Do List App | Task Manager ✅
 
+[Project Preview](https://to-do-list-a1s178va8-priyanka-singhs-projects-80a19a20.vercel.app/)
+
 A simple and efficient **To-Do List Application** designed to help users manage tasks effectively. The app allows users to add, edit, delete, and mark tasks as completed with a user-friendly interface.
 
 ## 📌 Features
